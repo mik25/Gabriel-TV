@@ -1,0 +1,1 @@
+{"id":"org.gabrieltv","version":"1.0.1","name":"Gabriel TV","description":"Corriente latina + desnuda en la selva","resources":["stream","meta","catalog"],"types":["tv","channel"],"idPrefixes":["Gabriel"],"icon":"https://gabrieltv.surge.sh/logo.png","catalogs":[{"id":"Gabrielcat","name":"Gabriel TV","type":"tv"}]}
